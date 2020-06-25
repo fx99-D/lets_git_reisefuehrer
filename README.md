@@ -1,4 +1,4 @@
-# Der Reiseführer zum MOOC "Let's Git - Versionsverwaltung und Open Source" 
+# Der Reiseführer zum MOOC "Let's Git - Versionsverwaltung und Open Source"
 
 Hier sammeln wir die Lieblingsorte der Teilnehmer:innen des Kurses Let's Git - Versionsverwaltung und Open Source. Beiträge sind sehr willkommen! Wenn Du Änderungen oder neue Inhalte hinzufügen möchten, öffne bitte ein Issue oder erstelle einen Pull Request.
 
@@ -17,3 +17,9 @@ Da ich nicht alle Orte ausführlich durchlesen kann, ist jeder Pull Request Revi
 ## Maintainer gesucht
 
 Ich kann hier nicht über alle Let's Git Repositories alles überblicken, weswegen ich mich freuen würde wenn wir bis zu 5 Maintainer für dieses Projekt finden. Gerne kann dafür in einem Issue diskutiert werden.
+
+## Ort in die interaktive Karte aufnehmen
+Das Einfügen von neuen Orten in die interaktive Karte geht folgendermaßen:
+* Bestimmung der geographischen Koordinaten z.B. mit Wikipedia. Hier sind die geographischen Koordinaten immer rechts oben in der Seite aufgeführt. Beim Klicken auf die Koordinaten geht eine weitere Seite auf. Hier findet man ebenfalls rechts oben die Koordinaten in Dezimalschreibweise, wie sie benötigt werden. Z.B. Geo URI 	geo:52.518611,13.408333
+* In der Datei Worldmap/WorldMap.htm an der Stelle "// hier weitere Lokalitäten ergänzen" Zeile einfügen und Koordinaten sowie Stadtname und Link entsprechend setzen. Achtung: gegenüber der Geo URI 	geo Darstellung sind die Koordinaten vertauscht.
+Die Datei Worldmap/WorldMap.htm sollte mit jedem aktuellen Browser darstellbar sein.
