@@ -1,4 +1,4 @@
-# Der Reiseführer zum MOOC "Let's Git - Versionsverwaltung und Open Source"
+# Der Reiseführer zum MOOC "Let's Git - Versionsverwaltung und Open Source" 
 
 Hier sammeln wir die Lieblingsorte der Teilnehmer:innen des Kurses Let's Git - Versionsverwaltung und Open Source. Beiträge sind sehr willkommen! Wenn Du Änderungen oder neue Inhalte hinzufügen möchten, öffne bitte ein Issue oder erstelle einen Pull Request.
 
