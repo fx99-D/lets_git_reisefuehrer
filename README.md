@@ -28,14 +28,12 @@ Das Einfügen von neuen Orten in die interaktive Karte geht folgendermaßen:
   Beim Klicken auf die Koordinaten geht eine weitere Seite auf. Hier findet man ebenfalls rechts oben die Koordinaten in Dezimalschreibweise, wie sie benötigt werden.
   
   <img src="https://github.com/fx99-D/lets_git_reisefuehrer/blob/update_README2/Worldmap/Koordinaten-Geohack.JPG"/>
-* In der Datei Worldmap/WorldMap.htm an der Stelle 
+* In der Datei Worldmap/WorldMap.htm an der im Code gezeigten Stelle Zeile einfügen und Koordinaten sowie Stadtname und Link entsprechend setzen.
 ``` 
 // hier weitere Lokalitäten ergänzen
   L.marker({lon: 16.373, lat: 48.208}).bindPopup('Wien<br><a href="https://de.wikipedia.org/wiki/Wien">Wikipedia</a>').addTo(map);
   L.marker({lon: 149.117, lat: -35.3}).bindPopup('Canberra<br><a href="https://de.wikipedia.org/wiki/Canberra">Wikipedia</a>').addTo(map);
-```
-    Zeile einfügen und Koordinaten sowie Stadtname und Link entsprechend setzen.
-
+``` 
     Achtung: gegenüber der Geo URI 	geo Darstellung sind die Koordinaten vertauscht.
       
 * Die Datei Worldmap/WorldMap.htm sollte mit jedem aktuellen Browser darstellbar sein.
