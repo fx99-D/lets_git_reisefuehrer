@@ -36,4 +36,4 @@ Das Einfügen von neuen Orten in die interaktive Karte geht folgendermaßen:
 ``` 
     Achtung: gegenüber der Geo URI 	geo Darstellung sind die Koordinaten vertauscht.
       
-* Die Datei Worldmap/WorldMap.htm sollte mit jedem aktuellen Browser darstellbar sein.
+* Die Datei [Worldmap/WorldMap.htm](Worldmap/WorldMap.htm) sollte mit jedem aktuellen Browser darstellbar sein.
